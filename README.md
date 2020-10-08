@@ -1,6 +1,7 @@
 # IntelliJ IDEA Classic Key Bindings for Visual Studio Code
 
-Port of IntelliJ IDEA classic key bindings for VS Code. Includes keymaps for popular JetBrains products like IntelliJ Ultimate, WebStorm, PyCharm, PHP Storm, etc.
+Port of IntelliJ IDEA classic key bindings for VS Code to macOS.
+No guarantee they work, and I haven't looked at the non-macOS ones.
 
 ## Usage
 
