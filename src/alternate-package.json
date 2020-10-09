@@ -1,6 +1,6 @@
 {
     "name": "intellij-idea-classic-macos-keybindings",
-    "version": "0.2.41",
+    "version": "1.0.0",
     "publisher": "PM123123123123",
     "engines": {
         "vscode": "^1.40.0"
