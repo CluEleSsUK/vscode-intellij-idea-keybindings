@@ -5,7 +5,7 @@
     "engines": {
         "vscode": "^1.40.0"
     },
-    "displayName": "IntelliJ IDEA macOS Keybindings",
+    "displayName": "IntelliJ IDEA classic macOS Keybindings",
     "description": "Port of IntelliJ IDEA classic keybindings for macOS",
     "categories": [
         "Keymaps"
